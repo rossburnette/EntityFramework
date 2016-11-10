@@ -1,0 +1,21 @@
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\PeopleProject.exe.config
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\PeopleProject.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\PeopleProject.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\EntityFramework.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\EntityFramework.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.csprojResolveAssemblyReference.cache
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.InitialCreate.resources
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.csproj.GenerateResource.Cache
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.PeopleTableRename.resources
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.PersonVersionAdded.resources
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.AddingAccountData.resources
+c:\users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.RemovingData.resources
+C:\Users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.AddingComplex.resources
+C:\Users\ug_th\documents\visual studio 2015\Projects\PeopleProject\PeopleProject\obj\Debug\PeopleProject.Migrations.RemoveAccountFromPerson.resources
+D:\SoftUni\Databases Advanced - Entity Framework\EntityFramework Code-First\PeopleProject\PeopleProject\bin\Debug\PeopleProject.exe.config
+D:\SoftUni\Databases Advanced - Entity Framework\EntityFramework Code-First\PeopleProject\PeopleProject\obj\Debug\PeopleProject.exe
+D:\SoftUni\Databases Advanced - Entity Framework\EntityFramework Code-First\PeopleProject\PeopleProject\obj\Debug\PeopleProject.pdb
