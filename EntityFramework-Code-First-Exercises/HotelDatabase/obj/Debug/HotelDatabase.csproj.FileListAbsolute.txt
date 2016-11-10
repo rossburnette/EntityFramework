@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\EntityFramework Code-First\REady\HotelDatabase\bin\Debug\HotelDatabase.exe.config
