@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.exe.config
