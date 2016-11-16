@@ -1,0 +1,4 @@
+c:\users\ug_th\documents\visual studio 2015\Projects\StudentSystem\SchoolSystem.Models\bin\Debug\SchoolSystem.Models.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\StudentSystem\SchoolSystem.Models\bin\Debug\SchoolSystem.Models.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\StudentSystem\SchoolSystem.Models\obj\Debug\SchoolSystem.Models.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\StudentSystem\SchoolSystem.Models\obj\Debug\SchoolSystem.Models.pdb
