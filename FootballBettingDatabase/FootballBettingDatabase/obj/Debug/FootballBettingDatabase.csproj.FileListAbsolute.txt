@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Relations\FootballBettingDatabase\FootballBettingDatabase\bin\Debug\FootballBettingDatabase.exe.config
