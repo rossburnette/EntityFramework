@@ -1,0 +1,10 @@
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\University.exe.config
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\University.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\University.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\EntityFramework.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\EntityFramework.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\obj\Debug\University.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\University\University\obj\Debug\University.pdb
