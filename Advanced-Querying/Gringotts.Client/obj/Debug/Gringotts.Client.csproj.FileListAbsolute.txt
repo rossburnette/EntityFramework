@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Advanced Querying\BookShopSystem\Gringotts.Client\bin\Debug\Gringotts.Client.exe.config
