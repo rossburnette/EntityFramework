@@ -1,0 +1,12 @@
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\CarDealer.exe.config
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\CarDealer.exe
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\CarDealer.pdb
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\EntityFramework.dll
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\EntityFramework.xml
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\obj\Debug\CarDealer.csprojResolveAssemblyReference.cache
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\obj\Debug\CarDealer.exe
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\obj\Debug\CarDealer.pdb
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\CarDealer\bin\Debug\Newtonsoft.Json.xml

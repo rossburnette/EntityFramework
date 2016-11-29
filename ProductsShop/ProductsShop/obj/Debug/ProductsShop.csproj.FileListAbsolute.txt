@@ -1,0 +1,12 @@
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\ProductsShop.exe.config
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\ProductsShop.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\ProductsShop.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\EntityFramework.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\EntityFramework.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\obj\Debug\ProductsShop.exe
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\obj\Debug\ProductsShop.pdb
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\Newtonsoft.Json.dll
+c:\users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ug_th\documents\visual studio 2015\Projects\ProductsShop\ProductsShop\obj\Debug\ProductsShop.csprojResolveAssemblyReference.cache
