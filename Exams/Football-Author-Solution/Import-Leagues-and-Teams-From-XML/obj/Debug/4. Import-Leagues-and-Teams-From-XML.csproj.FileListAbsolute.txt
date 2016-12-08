@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Exams\Football\Football-Author-Solution\Import-Leagues-and-Teams-From-XML\bin\Debug\Import-Leagues-and-Teams-From-XML.exe.config

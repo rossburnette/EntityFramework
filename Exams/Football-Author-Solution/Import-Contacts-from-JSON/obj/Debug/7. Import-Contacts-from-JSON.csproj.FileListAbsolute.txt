@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Exams\Football\Football-Author-Solution\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.exe.config

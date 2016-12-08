@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Exams\Football\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe.config
