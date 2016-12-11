@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Exams\Photography\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Import-Manufacturers-and-Lenses.exe.config

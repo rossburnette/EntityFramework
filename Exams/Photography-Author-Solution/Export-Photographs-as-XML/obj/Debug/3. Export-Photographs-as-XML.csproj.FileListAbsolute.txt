@@ -1,0 +1,1 @@
+D:\SoftUni\Databases Advanced - Entity Framework\Exams\Photography\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Export-Photographs-as-XML.exe.config
